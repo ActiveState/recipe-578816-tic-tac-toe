@@ -1,6 +1,6 @@
 # Want to find out what you can do with this file? Head over to:
 # http://docs.activestate.com/platform/state/start.html
-project: https://platform.activestate.com/ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe
+project: https://platform.activestate.com/ActiveState-Recipes/recipe-578816-tic-tac-toe
 scripts:
   - name: recipe
     description: Runs the recipe

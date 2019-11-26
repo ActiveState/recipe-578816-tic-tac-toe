@@ -12,19 +12,19 @@ I thought this is a fun game to program. Easy to program and can teach a lot.
 If you already have the [State Tool] installed you can simply run
 
 ```
-state activate ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe-in-python
+state activate ActiveState-Recipes/recipe-578816-tic-tac-toe
 ```
 
 If you do not have the [State Tool] installed you can use the following convenient one-liner.
 
 Linux: 
 ```
-sh <(curl -q https://platform.activestate.com/dl/cli/install.sh) -n -f && state activate --path $HOME/ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe-in-python ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe-in-python
+sh <(curl -q https://platform.activestate.com/dl/cli/install.sh) -n -f && state activate --path $HOME/ActiveState-Recipes/recipe-578816-tic-tac-toe ActiveState-Recipes/recipe-578816-tic-tac-toe
 ```
 
 Windows: 
 ```
-powershell "Set-Item -Path Env:NOPROMPT_INSTALL -Value 'true'; IEX(New-Object Net.WebClient).downloadString('https://platform.activestate.com/dl/cli/install.ps1')" && state activate --path %APPDATA%/ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe-in-python ActiveState-Recipes/recipe-578816-the-game-of-tic-tac-toe-in-python
+powershell "Set-Item -Path Env:NOPROMPT_INSTALL -Value 'true'; IEX(New-Object Net.WebClient).downloadString('https://platform.activestate.com/dl/cli/install.ps1')" && state activate --path %APPDATA%/ActiveState-Recipes/recipe-578816-tic-tac-toe ActiveState-Recipes/recipe-578816-tic-tac-toe
 ```
 
 macOS: not yet supported
